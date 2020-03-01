@@ -628,13 +628,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "ฉันโตมากับการดูหนังไซไฟเก่าๆ, ฉันเลยสนใจที่จะดูหนังแนวใหม่"
+            "Text": "ฉันโตมากับการดูหนังไซไฟเก่าๆ ฉันเลยสนใจที่จะดูว่าเดี๋ยวนี้มันเป็นยังไงบ้างแล้วน่ะ"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! It wasn't what I expected, but I ended up really liking it! I really identified with Wumbus.$h"
+            "Text": "อาฮ่า! ไม่เหมือนที่ฉันคิดไว้ แต่สุดท้ายฉันก็ชอบนะ! I really identified with Wumbus.$h"
           }
         },
         "ID": "reaction_1"
@@ -653,7 +653,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Not bad! I wonder if they have any merchandise I could stock..."
+            "Text": "ใช้ได้นี่! สงสัยจังว่าเขามีสินค้าที่ซื้อเก็บไว้ได้บ้างมั้ยนะ..."
           }
         },
         "ID": "reaction_2"
@@ -685,17 +685,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "ฉันไม่อยากจะเชื่อเลยว่าพวกเขาทำหนัง Prairie King ... ฉันหวังว่ามันจะดี!"
+            "Text": "ฉันไม่อยากจะเชื่อเลยว่าพวกเขาทำหนังของราชาทุ่งหญ้า ... ฉันหวังว่ามันจะดี!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Listen... it's got that old familiar music.$h"
+            "Text": "ฟังสิ... มันมีเสียงดนตรีเก่าๆ ที่คุ้นเคยด้วย$h"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Well the acting was awful, but I still had a great time.$h"
+            "Text": "แสดงแย่มากดลย แต่ฉันก็ยังมีช่วงเวลาที่ดีนะ$h"
           }
         },
         "ID": "reaction_2"
