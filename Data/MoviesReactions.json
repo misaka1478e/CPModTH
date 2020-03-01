@@ -628,7 +628,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I grew up watching old sci-fi flicks, so I'm interested to see a modern take on the genre."
+            "Text": "ฉันโตมากับการดูหนังไซไฟเก่าๆ, ฉันเลยสนใจที่จะดูหนังแนวใหม่"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -647,7 +647,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I'm usually working all the time, so it's really nice to do something like this."
+            "Text": "ฉันมักจะทำงานตลอดเวลาดังนั้นมันดีจริงๆ ที่ทำสิ่งนี้"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -685,7 +685,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I can't believe they made a Prairie King movie... I hope it's good!"
+            "Text": "ฉันไม่อยากจะเชื่อเลยว่าพวกเขาทำหนัง Prairie King ... ฉันหวังว่ามันจะดี!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -760,7 +760,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was interesting... I wonder what I would've done in the same situation?"
+            "Text": "นั่นน่าสนใจนะ ... ฉันสงสัยว่าฉันจะทำอะไรในสถานการณ์เดียวกัน?"
           }
         },
         "ID": "reaction_5"
@@ -815,13 +815,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I've always loved movies about the wild west, so I'm really excited to see this!"
+            "Text": "ฉันชอบหนังเกี่ยวกับป่าทางตะวันตกอยู่เสมอดังนั้นฉันจึงตื่นเต้นที่จะเห็นสิ่งนี้!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was great! It really felt authentic, with the costumes and everything."
+            "Text": "มันเยี่ยมมาก! มันให้ความรู้สึกแท้จริงกับชุดและทุกสิ่ง"
           }
         },
         "ID": "reaction_2"
@@ -834,7 +834,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "This movie looks so cute, I was really hoping someone would invite me!"
+            "Text": "หนังเรื่องนี้ดูน่ารักมาก, ฉันหวังว่าจะมีคนชวนฉันนะ!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -844,7 +844,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "That was adorable. Thanks so much for inviting me to this!"
+            "Text": "น่ารักมาก ขอบคุณมากที่เชิญฉันมาที่่นี่!"
           }
         },
         "ID": "reaction_3"
@@ -876,7 +876,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I have a feeling this one's going to be a let-down... But I'm still interested to give it a try."
+            "Text": "ฉันมีความรู้สึกว่าคนๆ นี้จะตกต่ำ ... แต่ฉันก็ยังสนใจที่จะลองดู"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -944,12 +944,12 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I read a glowing review of this movie in the Zuzu City Times..."
+            "Text": "ฉันอ่านรีวิวภาพยนตร์เรื่องนี้ใน Zuzu City Times ..."
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "It really makes you think, doesn't it?"
+            "Text": "มันทำให้คุณคิดจริงๆใช่ไหม?"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -967,7 +967,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "I don't watch a lot of movies, but this one's been well-received, right?"
+            "Text": "ฉันไม่ได้ดูหนังมากมาย, แต่เรื่องนี้ได้รับการตอบรับดี, ใช่ไหม?"
           },
           "DuringMovie": null,
           "AfterMovie": {
