@@ -12,17 +12,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "ดูหนังกับแม่งั้นหรอเอาสิน่าสนุกจัง!"
+            "Text": "ดูหนังกับแม่งั้นหรอ เอาสิ น่าสนุกจัง!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"(Pam และ Penny กำลังดูอย่างตั้งใจ!)\"",
+            "Script": "/message \"(แพมและเพนนีกำลังดูอย่างตั้งใจ!)\"",
             "Text": ""
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "ฉันว่ามันคือเรื่องที่ดีนะที่ได้ทำอะไรกับครอบครับอีกรอบ!"
+            "Text": "ฉันว่ามันคือเรื่องที่ดีนะที่ได้ทำอะไรกับครอบครัวอีกรอบ!"
           }
         },
         "ID": "reaction_0"
@@ -69,7 +69,7 @@
           },
           "DuringMovie": {
             "ResponsePoint": null,
-            "Script": "/message \"(Penny กำลังยิ้ม)\"",
+            "Script": "/message \"(เพนนีกำลังยิ้ม)\"",
             "Text": ""
           },
           "AfterMovie": {
